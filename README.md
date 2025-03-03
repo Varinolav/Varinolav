@@ -4,7 +4,7 @@
 ## About me
 - mebet dev
 - pivo enjoyer
-- sosal founder
+- bibis founder
 
 <div id="stat" align="center">
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varinolav&theme=github_dark" alt=""/>
